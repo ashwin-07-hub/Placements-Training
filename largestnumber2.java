@@ -19,5 +19,6 @@ class LargestTwo {
         }
 
         sc.close();
+
     }
 }
