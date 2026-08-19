@@ -13,11 +13,12 @@ class positivenegative {
                 System.out.println("Positive");
             else if (n < 0)
                 System.out.println("Negative");
-            else
+            else {
                 System.out.println("Zero");
-
-            System.out.println();
+                break;
+            }
         }
+
+        sc.close();
     }
-    sc.close();
 }
