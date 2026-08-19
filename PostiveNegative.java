@@ -19,4 +19,5 @@ class positivenegative {
             System.out.println();
         }
     }
+    sc.close();
 }
