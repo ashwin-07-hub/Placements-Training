@@ -12,5 +12,7 @@ class LeapYear {
         } else {
             System.out.println(year + " is Not a Leap Year");
         }
+
+        sc.close();
     }
 }
