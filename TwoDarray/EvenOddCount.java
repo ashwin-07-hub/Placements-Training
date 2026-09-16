@@ -1,3 +1,4 @@
+package TwoDarray;
 import java.util.Scanner;
 
 public class EvenOddCount {

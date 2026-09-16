@@ -1,3 +1,4 @@
+package session1;
 import java.util.Scanner;
 public class Perfectnum {
     public static void main(String[] args) {

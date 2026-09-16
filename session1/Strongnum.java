@@ -1,3 +1,4 @@
+package session1;
 import java.util.Scanner;
 
 public class Strongnum {
