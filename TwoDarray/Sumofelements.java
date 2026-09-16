@@ -1,3 +1,5 @@
+package TwoDarray;
+
 import java.util.Scanner;
 
 public class Sumofelements {
